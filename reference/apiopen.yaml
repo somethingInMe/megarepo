@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: apiopen
   version: 1.0.0
-  description: 'Супер проект! Супер проект! Супер проект! Супер проект! '
+  description: 'Мега крутой проект! Мега крутой проект! Мега крутой проект! Мега крутой проект! Мега крутой проект! '
 servers:
   - url: 'http://localhost:3000'
 paths:
